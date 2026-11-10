@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weightlossfayetteville.com/sitemap.xml
